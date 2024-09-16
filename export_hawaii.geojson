@@ -1,0 +1,843 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-06T14:17:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1613800739",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Chun Wah Kam Noodle Factory",
+        "safety:mask:covid19": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0827208,
+          21.3329201
+        ]
+      },
+      "id": "node/1613800739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736869143",
+        "amenity": "restaurant",
+        "check_date": "2023-12-23",
+        "cuisine": "chinese",
+        "name": "Happy Days"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7999429,
+          21.2830001
+        ]
+      },
+      "id": "node/1736869143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3208484361",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Aloha China BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9206141,
+          19.5133783
+        ]
+      },
+      "id": "node/3208484361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175109984",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "801",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "Alakea Street",
+        "amenity": "restaurant",
+        "capacity": "100",
+        "contact:facebook": "https://www.facebook.com/WaterDropVegetarianHouse",
+        "cuisine": "chinese",
+        "delivery": "no",
+        "description": "Belongs to FGS Hawaii (Taiwanese Buddhist temple), so the food is Chinese vegetarian. Gift shop next to kitchen.",
+        "diet:vegetarian": "only",
+        "name": "Water Drop Vegetarian House",
+        "opening_hours": "Mo-Fr 11:00-14:00",
+        "smoking": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.86197,
+          21.3068125
+        ]
+      },
+      "id": "node/4175109984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428336091",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1113",
+        "addr:postcode": "96817",
+        "addr:state": "HI",
+        "addr:street": "Smith Street",
+        "amenity": "restaurant",
+        "check_date": "2022-06-26",
+        "contact:facebook": "littlevillagehawaii",
+        "contact:instagram": "littlevillagenoodlehouse",
+        "cuisine": "chinese",
+        "delivery": "yes",
+        "name": "Little Village Noodle House",
+        "opening_hours": "Mo-Su 10:30-22:30",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:google_pay": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:samsung_pay": "yes",
+        "payment:unionpay": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808 545 3008",
+        "takeaway": "yes",
+        "website": "http://littlevillagehawaii.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8621131,
+          21.3118674
+        ]
+      },
+      "id": "node/4428336091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580669594",
+        "addr:postcode": "96815",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Seafood Village",
+        "opening_hours": "Mo-Su 11:00-16:00, 17:00-22:00",
+        "operator": "Hyatt Regency Waikiki",
+        "phone": "+1-808-971-1818",
+        "website": "http://www.seafoodvillagehawaii.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.82566,
+          21.2764025
+        ]
+      },
+      "id": "node/4580669594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679383093",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "HongKong Chop Suey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.906904,
+          19.4875155
+        ]
+      },
+      "id": "node/4679383093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4749898337",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "537",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "Pensacola Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Chun Wah Kam Noodle Factory",
+        "opening_hours": "07:30-19:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8482309,
+          21.2938293
+        ]
+      },
+      "id": "node/4749898337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897024253",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Nice Day Chinese Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8614468,
+          21.3199298
+        ]
+      },
+      "id": "node/4897024253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5156192922",
+        "addr:housenumber": "477",
+        "addr:postcode": "96815",
+        "addr:street": "Kapahulu Avenue",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "House of Wong Restaurant",
+        "opening_hours": "Mo-Su 10:30-21:30",
+        "phone": "+1-808-732-0818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8149613,
+          21.2758564
+        ]
+      },
+      "id": "node/5156192922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668046477",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1234",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "South Beretania Street",
+        "addr:unit": "A-1",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "level": "0",
+        "name": "Asian Mix",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8421193,
+          21.3013944
+        ]
+      },
+      "id": "node/5668046477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5866604360",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1289",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "South King Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Choi's Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8421356,
+          21.2989606
+        ]
+      },
+      "id": "node/5866604360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5875360806",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "2919",
+        "addr:postcode": "96826",
+        "addr:state": "HI",
+        "addr:street": "Kapiolani Boulevard",
+        "amenity": "restaurant",
+        "check_date": "2023-08-13",
+        "cuisine": "chinese",
+        "name": "Duck Lee",
+        "opening_hours": "10:30-19:30",
+        "payment:american_express": "yes",
+        "payment:discover_card": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808 735 5378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8149608,
+          21.2881289
+        ]
+      },
+      "id": "node/5875360806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202575086",
+        "addr:housenumber": "94-861",
+        "addr:postcode": "96797",
+        "addr:street": "Farrington Highway",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Honolulu kitchen",
+        "phone": "+1-808-671-5241",
+        "website": "https://www.honolulukitchen.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.002545,
+          21.3838487
+        ]
+      },
+      "id": "node/6202575086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6332388565",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Laie Chop Suey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9218081,
+          21.6465883
+        ]
+      },
+      "id": "node/6332388565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7495503381",
+        "access": "permit",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Chao Mein Express",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.919804,
+          21.3312209
+        ]
+      },
+      "id": "node/7495503381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7732303707",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Don's Chinese Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6669455,
+          20.020054
+        ]
+      },
+      "id": "node/7732303707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7899352982",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Lin’s Chop Suey",
+        "safety:mask:covid19": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0671484,
+          19.6916321
+        ]
+      },
+      "id": "node/7899352982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8178109727",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "100",
+        "addr:postcode": "96817",
+        "addr:state": "HI",
+        "addr:street": "North Beretania Street",
+        "addr:unit": "107",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Won Kee Sea Food",
+        "name:zh": "皇城海鲜酒楼",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1808-524-6877",
+        "takeaway": "yes",
+        "website": "https://won-kee-sea-food.edan.io/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8615417,
+          21.3140215
+        ]
+      },
+      "id": "node/8178109727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8370160273",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "King’s Chinese Barbecue",
+        "safety:mask:covid19": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3233523,
+          20.914332
+        ]
+      },
+      "id": "node/8370160273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8652550528",
+        "addr:city": "Kaneohe",
+        "addr:housenumber": "45-588",
+        "addr:postcode": "96744",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Highway",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Kin Wah Chop Suey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.79988,
+          21.4004703
+        ]
+      },
+      "id": "node/8652550528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8830672393",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Jade Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6668817,
+          20.0231141
+        ]
+      },
+      "id": "node/8830672393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9223115739",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Sunlight Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0631836,
+          19.6980567
+        ]
+      },
+      "id": "node/9223115739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9347773173",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Golden Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8638036,
+          21.3119303
+        ]
+      },
+      "id": "node/9347773173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9347799974",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Yung Yee Kee Dim Sum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8436079,
+          21.2933674
+        ]
+      },
+      "id": "node/9347799974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9654274431",
+        "addr:city": "Hilo",
+        "addr:housenumber": "1990",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Kinoole Street",
+        "amenity": "restaurant",
+        "check_date": "2022-08-29",
+        "cuisine": "chinese",
+        "diet:vegetarian": "yes",
+        "name": "Hilo Rice Noodle",
+        "opening_hours": "Mo-Sa 10:00-20:30; Su off",
+        "payment:american_express": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808-981-5841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0705631,
+          19.690452
+        ]
+      },
+      "id": "node/9654274431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848949869",
+        "addr:housenumber": "801",
+        "addr:street": "Kaheka Street",
+        "amenity": "restaurant",
+        "check_date": "2022-06-26",
+        "cuisine": "chinese",
+        "delivery": "yes",
+        "name": "U-Choice In",
+        "opening_hours": "07:00-19:00",
+        "payment:american_express": "yes",
+        "payment:discover_card": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808-941-3393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8391279,
+          21.2933127
+        ]
+      },
+      "id": "node/9848949869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9848988226",
+        "addr:housenumber": "801",
+        "addr:street": "Kaheka Street",
+        "amenity": "restaurant",
+        "check_date": "2022-06-26",
+        "cuisine": "chinese",
+        "name": "U-Choice In",
+        "opening_hours": "07:00-19:00",
+        "payment:american_express": "yes",
+        "payment:discover_card": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808-941-3393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8391279,
+          21.2933127
+        ]
+      },
+      "id": "node/9848988226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10040866952",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Oceanfront Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0561391,
+          19.7268831
+        ]
+      },
+      "id": "node/10040866952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10195531967",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Kirin Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8252619,
+          21.2761972
+        ]
+      },
+      "id": "node/10195531967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688046119",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Hong Kong Noodle House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8609473,
+          21.3147639
+        ]
+      },
+      "id": "node/10688046119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11112919467",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "2919",
+        "addr:postcode": "96826",
+        "addr:state": "HI",
+        "addr:street": "Kapiolani Boulevard",
+        "addr:unit": "201B",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Fun Station",
+        "opening_hours": "10:30-21:30",
+        "phone": "+1 808 773 7367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8147768,
+          21.2880801
+        ]
+      },
+      "id": "node/11112919467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11115660171",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "On On"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8133765,
+          21.2843477
+        ]
+      },
+      "id": "node/11115660171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11374607314",
+        "amenity": "restaurant",
+        "check_date": "2023-11-24",
+        "cuisine": "chinese",
+        "name": "Seoul Mix 2.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8419215,
+          21.2907617
+        ]
+      },
+      "id": "node/11374607314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11374607782",
+        "amenity": "restaurant",
+        "check_date": "2023-11-24",
+        "cuisine": "chinese",
+        "name": "Yik Dim Sum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8418854,
+          21.2906181
+        ]
+      },
+      "id": "node/11374607782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11408728213",
+        "amenity": "restaurant",
+        "check_date": "2023-12-10",
+        "cuisine": "chinese",
+        "name": "Manderin Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7858529,
+          21.2753227
+        ]
+      },
+      "id": "node/11408728213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11464390949",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Pah Ke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8027091,
+          21.4188064
+        ]
+      },
+      "id": "node/11464390949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11579937818",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Golden Wheel",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9315151,
+          21.3793988
+        ]
+      },
+      "id": "node/11579937818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11880637156",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1146",
+        "addr:postcode": "96816",
+        "addr:state": "HI",
+        "addr:street": "12th Avenue",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:non-vegetarian": "yes",
+        "name": "Duk Kee Chinese Restaurant",
+        "opening_hours": "Mo-Su 10:30-21:00",
+        "phone": "+18087341337",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7991997,
+          21.2822515
+        ]
+      },
+      "id": "node/11880637156"
+    }
+  ]
+}

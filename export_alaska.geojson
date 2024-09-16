@@ -1,0 +1,300 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-09-06T14:09:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654987253",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "delivery": "yes",
+        "name": "Bayside Inn Restaurant",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.6019221,
+          66.8972421
+        ]
+      },
+      "id": "node/1654987253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654987309",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "delivery": "yes",
+        "name": "Empress Chinese Restaurant",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.6022654,
+          66.8968463
+        ]
+      },
+      "id": "node/1654987309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1780056720",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Joan Mei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.9744916,
+          56.8063563
+        ]
+      },
+      "id": "node/1780056720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3119220247",
+        "addr:housename": "Good Fortune Restaurant",
+        "addr:housenumber": "4",
+        "addr:postcode": "99901",
+        "addr:street": "Creek Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "designation": "Restaurant",
+        "name": "Good Fortune Restaurant",
+        "website": "https://goodfortuneketchikan.com/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.642777,
+          55.3427408
+        ]
+      },
+      "id": "node/3119220247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331281449",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Lin's Asian Bistro",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7574103,
+          64.8373946
+        ]
+      },
+      "id": "node/3331281449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384335689",
+        "addr:city": "North Pole",
+        "addr:state": "AK",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "chinese",
+        "description": "This restaurant was featured on an episode of Diners, Drive-Ins and Dives, a Food Network show.",
+        "name": "Pagoda Chinese Restaurant and Bar",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.3545287,
+          64.7589953
+        ]
+      },
+      "id": "node/4384335689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7039137450",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "J & T Chinese & Western Cuisine",
+        "opening_hours": "Tu-Su 11:30-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.069187,
+          53.254329
+        ]
+      },
+      "id": "node/7039137450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7724779760",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Charlie's Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8857463,
+          61.1960311
+        ]
+      },
+      "id": "node/7724779760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816190739",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Peking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4401803,
+          60.1045169
+        ]
+      },
+      "id": "node/7816190739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8986936812",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "9150",
+        "addr:postcode": "99502",
+        "addr:state": "AK",
+        "addr:street": "Jewel Lake Road",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "indoor_seating": "yes",
+        "name": "Shanghai Tea Garden",
+        "opening_hours": "Mo-Sa 15:30-21:00",
+        "outdoor_seating": "no",
+        "phone": "1-907-243-1175",
+        "website": "https://shanghaiteagardenak.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.952699,
+          61.1382018
+        ]
+      },
+      "id": "node/8986936812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9869307587",
+        "addr:city": "Whitehorse",
+        "addr:housenumber": "2058",
+        "addr:province": "YT",
+        "addr:street": "Second Avenue",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "North Dragon Restaurant",
+        "opening_hours": "Mo-Fr 11:00-14:00,16:00-22:30; PH 16:00-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.0496193,
+          60.715705
+        ]
+      },
+      "id": "node/9869307587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945538619",
+        "addr:city": "Anchorage",
+        "addr:housenumber": "4000",
+        "addr:postcode": "99502",
+        "addr:state": "AK",
+        "addr:street": "West Dimond Boulevard",
+        "addr:unit": "5",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "indoor_seating": "yes",
+        "name": "Peking Wok",
+        "note": "In the Jewel Lake West Shopping Center",
+        "opening_hours": "Mo-Sa 11:00-22:30, Su 12:00-22:30",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "phone": "1-+1907-248-1648",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9522517,
+          61.1364451
+        ]
+      },
+      "id": "node/9945538619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10931037404",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Golden China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.4082044,
+          64.4975566
+        ]
+      },
+      "id": "node/10931037404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11474177771",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Mei’s Kitchen",
+        "website": "https://www.facebook.com/meiskitchen2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8973249,
+          61.1876992
+        ]
+      },
+      "id": "node/11474177771"
+    }
+  ]
+}
